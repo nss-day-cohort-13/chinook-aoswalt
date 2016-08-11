@@ -3,7 +3,7 @@
 ## Queries
 1. `non_usa_customers.sql`: A query showing Customers (just their full names, customer ID and country) who are not in the US.
 1. `brazil_customers.sql`: A query only showing the Customers from Brazil.
-1. ~~`brazil_customers_invoices.sql`: A query showing the Invoices of customers who are from Brazil. The resultant table shows the customer's full name, Invoice ID, Date of the invoice and billing country.~~
+1. `brazil_customers_invoices.sql`: A query showing the Invoices of customers who are from Brazil. The resultant table shows the customer's full name, Invoice ID, Date of the invoice and billing country.
 1. ~~`sales_agents.sql`: A query showing only the Employees who are Sales Agents.~~
 1. ~~`unique_invoice_countries.sql`: A query showing a unique/distinct list of billing countries from the Invoice table.~~
 1. ~~`sales_agent_invoices.sql`: A query that shows the invoices associated with each sales agent. The resultant table should include the Sales Agent's full name.~~
