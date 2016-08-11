@@ -18,7 +18,7 @@
 1. `playlists_track_count.sql`: A query that shows the total number of tracks in each playlist. The Playlist name should be include on the resulant table.
 1. `tracks_no_id.sql`: A query that shows all the Tracks, but displays no IDs. The result includes the Album name, Media type and Genre.
 1. `invoices_line_item_count.sql`: A query that shows all Invoices but includes the # of invoice line items.
-1. ~~`sales_agent_total_sales.sql`: A query that shows total sales made by each sales agent.~~
+1. `sales_agent_total_sales.sql`: A query that shows total sales made by each sales agent.
 1. ~~`top_2009_agent.sql`: Which sales agent made the most in sales in 2009?~~
 
     > **Hint:** Use the [MAX](https://www.sqlite.org/lang_aggfunc.html#maxggunc) function on a [subquery](http://beginner-sql-tutorial.com/sql-subquery.htm).
