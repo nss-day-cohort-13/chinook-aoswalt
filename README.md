@@ -1,7 +1,7 @@
 # SQLite Queries on the Chinook database
 
 ## Queries
-1. ~~`non_usa_customers.sql`: A query showing Customers (just their full names, customer ID and country) who are not in the US.~~
+1. `non_usa_customers.sql`: A query showing Customers (just their full names, customer ID and country) who are not in the US.
 1. ~~`brazil_customers.sql`: A query only showing the Customers from Brazil.~~
 1. ~~`brazil_customers_invoices.sql`: A query showing the Invoices of customers who are from Brazil. The resultant table shows the customer's full name, Invoice ID, Date of the invoice and billing country.~~
 1. ~~`sales_agents.sql`: A query showing only the Employees who are Sales Agents.~~
