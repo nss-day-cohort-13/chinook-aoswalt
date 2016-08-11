@@ -19,10 +19,7 @@
 1. `tracks_no_id.sql`: A query that shows all the Tracks, but displays no IDs. The result includes the Album name, Media type and Genre.
 1. `invoices_line_item_count.sql`: A query that shows all Invoices but includes the # of invoice line items.
 1. `sales_agent_total_sales.sql`: A query that shows total sales made by each sales agent.
-1. ~~`top_2009_agent.sql`: Which sales agent made the most in sales in 2009?~~
-
-    > **Hint:** Use the [MAX](https://www.sqlite.org/lang_aggfunc.html#maxggunc) function on a [subquery](http://beginner-sql-tutorial.com/sql-subquery.htm).
-
+1. `top_2009_agent.sql`: Which sales agent made the most in sales in 2009?
 1. ~~`top_agent.sql`: The sales agent who made the most in sales over all~~
 1. ~~`sales_agent_customer_count.sql`: A query that shows the count of customers assigned to each sales agent.~~
 1. ~~`sales_per_country.sql`: A query that shows the total sales per country.~~
