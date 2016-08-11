@@ -20,7 +20,7 @@
 1. `invoices_line_item_count.sql`: A query that shows all Invoices but includes the # of invoice line items.
 1. `sales_agent_total_sales.sql`: A query that shows total sales made by each sales agent.
 1. `top_2009_agent.sql`: Which sales agent made the most in sales in 2009?
-1. ~~`top_agent.sql`: The sales agent who made the most in sales over all~~
+1. `top_agent.sql`: The sales agent who made the most in sales over all
 1. ~~`sales_agent_customer_count.sql`: A query that shows the count of customers assigned to each sales agent.~~
 1. ~~`sales_per_country.sql`: A query that shows the total sales per country.~~
 1. ~~`top_country.sql`: Which country's customers spent the most?~~
