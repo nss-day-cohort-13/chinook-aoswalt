@@ -11,7 +11,7 @@
 1. `total_invoices_{year}.sql`: How many Invoices were there in 2009 and 2011?
 1. `total_sales_{year}.sql`: What are the respective total sales for each of those years?
 1.~`invoice_37_line_item_count.sql`: A query that COUNTs the number of line items for Invoice ID 37 from looking at the InvoiceLine table.
-1. ~~`line_items_per_invoice.sql`: A query that COUNTs the number of line items for each Invoice from looking at the InvoiceLine table. HINT: [GROUP BY](http://www.sqlite.org/lang_select.html#resultset)~~
+1. `line_items_per_invoice.sql`: A query that COUNTs the number of line items for each Invoice from looking at the InvoiceLine table. HINT: [GROUP BY](http://www.sqlite.org/lang_select.html#resultset)
 1. ~~`line_item_track.sql`: A query that includes the purchased track name with each invoice line item.~~
 1. ~~`line_item_track_artist.sql`: A query that includes the purchased track name AND artist name with each invoice line item.~~
 1. ~~`country_invoices.sql`: A query that shows the # of invoices per country. HINT: [GROUP BY](http://www.sqlite.org/lang_select.html#resultset)~~
