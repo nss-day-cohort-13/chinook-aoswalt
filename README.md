@@ -13,8 +13,8 @@
 1.~`invoice_37_line_item_count.sql`: A query that COUNTs the number of line items for Invoice ID 37 from looking at the InvoiceLine table.
 1. `line_items_per_invoice.sql`: A query that COUNTs the number of line items for each Invoice from looking at the InvoiceLine table.
 1. `line_item_track.sql`: A query that includes the purchased track name with each invoice line item.
-1. ~~`line_item_track_artist.sql`: A query that includes the purchased track name AND artist name with each invoice line item.~~
-1. ~~`country_invoices.sql`: A query that shows the # of invoices per country.
+1. `line_item_track_artist.sql`: A query that includes the purchased track name AND artist name with each invoice line item.
+1. ~~`country_invoices.sql`: A query that shows the # of invoices per country.~~
 1. ~~`playlists_track_count.sql`: A query that shows the total number of tracks in each playlist. The Playlist name should be include on the resulant table.~~
 1. ~~`tracks_no_id.sql`: A query that shows all the Tracks, but displays no IDs. The result includes the Album name, Media type and Genre.~~
 1. ~~`invoices_line_item_count.sql`: A query that shows all Invoices but includes the # of invoice line items.~~
