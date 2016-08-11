@@ -6,7 +6,7 @@
 1. `brazil_customers_invoices.sql`: A query showing the Invoices of customers who are from Brazil. The resultant table shows the customer's full name, Invoice ID, Date of the invoice and billing country.
 1. `sales_agents.sql`: A query showing only the Employees who are Sales Agents.
 1. `unique_invoice_countries.sql`: A query showing a unique/distinct list of billing countries from the Invoice table.
-1. ~~`sales_agent_invoices.sql`: A query that shows the invoices associated with each sales agent. The resultant table should include the Sales Agent's full name.~~
+1. `sales_agent_invoices.sql`: A query that shows the invoices associated with each sales agent. The resultant table should include the Sales Agent's full name.
 1. ~~`invoice_totals.sql`: A query that shows the Invoice Total, Customer name, Country and Sale Agent name for all invoices and customers.~~
 1. ~~`total_invoices_{year}.sql`: How many Invoices were there in 2009 and 2011?~~
 1. ~~`total_sales_{year}.sql`: What are the respective total sales for each of those years?~~
