@@ -24,7 +24,7 @@
 1. `sales_agent_customer_count.sql`: A query that shows the count of customers assigned to each sales agent.
 1. `sales_per_country.sql`: A query that shows the total sales per country.
 1. `top_country.sql`: Which country's customers spent the most?
-1. ~~`top_2013_track.sql`: A query that shows the most purchased track of 2013.~~
+1. `top_2013_track.sql`: A query that shows the most purchased track of 2013.
 1. ~~`top_5_tracks.sql`: A query that shows the top 5 most purchased tracks over all.~~
 1. ~~`top_3_artists.sql`: A query that shows the top 3 best selling artists.~~
 1. ~~`top_media_type.sql`: A query that shows the most purchased Media Type.~~
